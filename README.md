@@ -121,42 +121,6 @@ Patreon: Funds will be directly sponsored to Luo Ran (@jocs) who created MarkTex
 Open Collective: All expenses are transparent. The funds will be used for the development and maintenance of MarkText, funding online and offline activities, and acquiring other necessary resources.
 Names and company logos of all sponsors (from both Patreon and Open Collective) will appear on the official website for MarkText and in its README.md file.
 
-**Special Sponsors**
-
-<a href="https://www.dogedoge.com/">
- <img src="https://www.dogedoge.com/assets/new_logo.min.png" width="100" height="100">
-</a>
-
-**Platinum Sponsors**
-
-<a href="https://opencollective.com/marktext#platinum-sponsors">
- <img src="https://opencollective.com/marktext/tiers/platinum-sponsors.svg?avatarHeight=36&width=600">
-</a>
-
-**Gold Sponsors**
-
-<a href="https://opencollective.com/marktext#platinum-sponsors">
-  <img src="https://opencollective.com/marktext/tiers/gold-sponsors.svg?avatarHeight=36&width=600">
-</a>
-
-**Silver Sponsors**
-
-<a href="https://opencollective.com/marktext#platinum-sponsors">
-  <img src="https://opencollective.com/marktext/tiers/silver-sponsors.svg?avatarHeight=36&width=600">
-</a>
-
-**Bronze Sponsors**
-
-<a href="https://opencollective.com/marktext#platinum-sponsors">
-  <img src="https://opencollective.com/marktext/tiers/bronze-sponsors.svg?avatarHeight=36&width=600">
-</a>
-
-**Backers**
-
-<a href="https://opencollective.com/marktext#backers">
-  <img src="https://opencollective.com/marktext/tiers/backer.svg?avatarHeight=36&width=600">
-</a>
-
 ## Screenshot
 
 ![](docs/marktext.png?raw=true)
